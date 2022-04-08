@@ -26,8 +26,8 @@ public class PolicyHandler{
         
 
         // Sample Logic //
-        // Pay pay = new Pay();
-        // payRepository.save(pay);
+        Pay pay = new Pay();
+        payRepository.save(pay);
 
     }
 
